@@ -1,0 +1,10 @@
+-Creates 40-char Hexadecimal hash every time you create new version of Github
+
+A clone :making  inital copy from central repository,Pull:updated one
+Publish: uploading new in central repository ,Push:updated one
+
+								  GITHUB DESKTOP
+
+-Create new repository
+-Go to Control Panel->File Explorer->View Hiddden files ->Check git folder to check .git(by default hidden file)
+-
